@@ -41,6 +41,11 @@ This project implements a traffic light control system using Deep Q-Learning (DQ
 
 
 
+![image](https://github.com/user-attachments/assets/eee330d8-09bb-4172-8a7a-8ee446c51cc9)
+![image](https://github.com/user-attachments/assets/b5d5c77c-2a91-445c-b2a3-79bf8870e059)
+![image](https://github.com/user-attachments/assets/02f51a79-be6d-4f7d-8647-b8e3d630f57a)
+![image](https://github.com/user-attachments/assets/ce7f8a21-be78-42b9-baaf-98a640492c38)
+
 
 
 ![image](https://github.com/user-attachments/assets/437208e3-3ff6-4edb-a3c7-067cd1b24c61)
