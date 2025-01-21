@@ -3,6 +3,9 @@
 #### Project Description:
 This project implements a traffic light control system using Deep Q-Learning (DQN) to optimize traffic flow at a four-way intersection. The system dynamically adjusts traffic light durations based on real-time data, such as vehicle counts and waiting times, to minimize congestion and improve efficiency.
 
+
+#abstract
+The objective of this project is to develop and implement machine learning techniques to optimize traffic flow at intersections managed by traffic light systems. Due to the legal and practical limitations of experimenting on real-world roads, a realistic traffic simulation environment was created. This simulation is integrated with live camera feeds and advanced image processing to enable real-time data collection and interaction with the AI model. Using reinforcement learning, the model adapts traffic light sequences based on real-time traffic density, aiming to minimize vehicle waiting times and enhance overall traffic flow efficiency. A distinctive feature of this model is its ability to dynamically open the same lane consecutively without a fixed cycle, responding to fluctuating traffic conditions. Additionally, unlike traditional systems relying on GPS, the system utilizes camera-based object detection for real-time vehicle detection, providing an accurate, scalable, and cost-effective solution. This approach offers a scalable solution for modern urban traffic management challenges.
 ---
 
 #### Core Features:
